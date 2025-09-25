@@ -37,7 +37,7 @@ public class LoadController : MonoBehaviour
     {
 #if UNITY_EDITOR
         string str =
-            "{\"adult_level\":\"3\",\"is_holiday\":\"false\",\"user_id\":\"123456789\",\"nickname\":\"d75870366\",\"timestamp\":\"2024-11-19T09:15:00Z\"}";
+            "{\"adult_level\":\"3\",\"is_holiday\":\"false\",\"user_id\":\"123456789\",\"nickname\":\"d758703616\",\"timestamp\":\"2024-11-19T09:15:00Z\"}";
         LoginCallBack(str);
 #elif UNITY_ANDROID
         //Android平台调用SDK
